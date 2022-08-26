@@ -28,10 +28,10 @@
   "devDependencies": {
     "@types/node": "^18.7.13",
     "good-vibes": "^1.2.0",
-    "typescript": "^4.7.4"
+    "typescript": "^4.8.2"
   },
   "dependencies": {
-    "dotenv": "^16.0.0",
+    "dotenv": "^16.0.1",
     "glitch-db": "^0.8.0",
     "lodash.chunk": "^4.2.0",
     "luxon": "^2.4.0",
