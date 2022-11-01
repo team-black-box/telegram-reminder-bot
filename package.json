@@ -34,7 +34,7 @@
     "dotenv": "^16.0.2",
     "glitch-db": "^0.8.0",
     "lodash.chunk": "^4.2.0",
-    "luxon": "^3.0.3",
+    "luxon": "^3.1.0",
     "rrule": "^2.7.1",
     "telegraf": "^4.9.1"
   }
